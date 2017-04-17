@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_cs"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Cs and It " />
+        <item
+            android:id="@+id/nav_mech"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Mech." />
+        <item
+            android:id="@+id/nav_Elec"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="EC" />
+        <item
+            android:id="@+id/nav_ph"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Pharmacy" />
+
+        <item
+            android:id="@+id/nav_mba"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="MBA" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>

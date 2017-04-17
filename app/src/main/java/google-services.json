@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "367142130547",
+    "firebase_url": "https://titfeed.firebaseio.com",
+    "project_id": "titfeed",
+    "storage_bucket": "titfeed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367142130547:android:ea95ae6aded7cc5f",
+        "android_client_info": {
+          "package_name": "com.example.vishwaraj.titfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367142130547-s06qo6voc4uslj6c66g4sesvu6qakdi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBup1UBXlTZuD4qBmfeTlt4FiZjRRBRCMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
